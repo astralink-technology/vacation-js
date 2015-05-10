@@ -12,8 +12,6 @@
 GruntFile.js
 node_modules
 
-*.json
-
 # PHP Storm
 .idea
 

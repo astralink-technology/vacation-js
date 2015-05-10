@@ -1,0 +1,40 @@
+{
+    "name": "vacation-js"
+    , "private": true
+    , "dependencies": {
+        "express": "~3.2.6"
+        , "pg" : "*"
+        , "slug" : "0.8.0"
+        , "mandrill-api" : "*"
+        , "moment" : "*"
+        , "moment-timezone" : "*"
+        , "bcrypt" : "*"
+        , "express-ejs-layouts" : "*"
+        , "ejs" : "*"
+        , "request" : "*"
+        , "passport" : "*"
+        , "cron" : "*"
+        , "time": "*"
+        , "ua-parser" : "*"
+        , "heroku-ping" : "*"
+        , "grunt" : "*"
+        , "jwt-simple" : "*"
+        , "express-enforces-ssl" : "*"
+        , "grunt-contrib-cssmin": "*"
+        , "grunt-contrib-sass": "*"
+        , "gulp": "*"
+        , "gulp-concat": "*"
+        , "gulp-uglify": "*"
+        , "mongodb": "*"
+        , "mongoose": "*"
+        , "raygun" : "*"
+        , "connect-mongo" : "*"
+        , "async" : "*"
+        , "underscore" : "1.8.2"
+        , "csrf" : "2.0.6"
+        , "pusher" : "1.0.4"
+    }
+    ,"engines": {
+    "node": "0.10.x"
+    }
+}
