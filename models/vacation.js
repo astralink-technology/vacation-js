@@ -16,7 +16,7 @@ var vacationSchema = new Schema({
     , type : {type: String, default : null}
     , year : {type: Number, default : null}
     , month : {type: Number, default : null}
-    , days : {type: Number, default : null}
+    , day : {type: Number, default : null}
     , country : {type: String, default : null}
     , country_code : {type: String, default : null}
 });

@@ -78,6 +78,7 @@ if (app.get('env') === 'production') {
 
 // serve web pages
 app.get('/', routes.index);
+app.get('/list', routes.list);
 
 // redirect all others to the index (HTML5 history)
 app.get('*', routes.index);

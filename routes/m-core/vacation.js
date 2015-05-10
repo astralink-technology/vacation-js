@@ -15,7 +15,6 @@
 var mongoose = require('mongoose');
 var moment = require('moment');
 var apiHelper = _require('/helpers/api');
-var dateTimeHelper = _require('/helpers/dateTime');
 var vacationModel = _require('/models/vacation');
 
 var getVacation = exports.getVacation = function(req, res, bypass, callback, apiOptions) {
