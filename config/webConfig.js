@@ -31,13 +31,13 @@ exports.mongoDbConfig = function(){
     mongoDbConfig.db = 'eyex';
     mongoDbConfig.dbUser = 'shiweifong';
     mongoDbConfig.password = 's8944896d';
-    mongoDbConfig.host = 'ds033107.mongolab.com:33107';
+    mongoDbConfig.host = 'ds031912.mongolab.com:31912';
 
     //for session usage
     mongoDbConfig.sessDb = 'eyex-session';
     mongoDbConfig.sessDbUser = 'shiweifong';
     mongoDbConfig.sessPassword = 's8944896d';
-    mongoDbConfig.sessHost = 'ds033439.mongolab.com:33439';
+    mongoDbConfig.sessHost = 'ds061741.mongolab.com:61741';
 
     return mongoDbConfig;
 }
